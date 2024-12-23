@@ -1,0 +1,8 @@
+[package]
+name = "DZ"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8"  # Для работы с генерацией случайных чисел
+clap = { version = "3.0", features = ["derive"] }  # Для обработки аргументов командной строки

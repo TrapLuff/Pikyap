@@ -1,0 +1,14 @@
+D:\фотографии для видео\ВУЗ\программирование\lab2\bin\Debug\net9.0\lab2.exe
+D:\фотографии для видео\ВУЗ\программирование\lab2\bin\Debug\net9.0\lab2.deps.json
+D:\фотографии для видео\ВУЗ\программирование\lab2\bin\Debug\net9.0\lab2.runtimeconfig.json
+D:\фотографии для видео\ВУЗ\программирование\lab2\bin\Debug\net9.0\lab2.dll
+D:\фотографии для видео\ВУЗ\программирование\lab2\bin\Debug\net9.0\lab2.pdb
+D:\фотографии для видео\ВУЗ\программирование\lab2\obj\Debug\net9.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\фотографии для видео\ВУЗ\программирование\lab2\obj\Debug\net9.0\lab2.AssemblyInfoInputs.cache
+D:\фотографии для видео\ВУЗ\программирование\lab2\obj\Debug\net9.0\lab2.AssemblyInfo.cs
+D:\фотографии для видео\ВУЗ\программирование\lab2\obj\Debug\net9.0\lab2.csproj.CoreCompileInputs.cache
+D:\фотографии для видео\ВУЗ\программирование\lab2\obj\Debug\net9.0\lab2.dll
+D:\фотографии для видео\ВУЗ\программирование\lab2\obj\Debug\net9.0\refint\lab2.dll
+D:\фотографии для видео\ВУЗ\программирование\lab2\obj\Debug\net9.0\lab2.pdb
+D:\фотографии для видео\ВУЗ\программирование\lab2\obj\Debug\net9.0\lab2.genruntimeconfig.cache
+D:\фотографии для видео\ВУЗ\программирование\lab2\obj\Debug\net9.0\ref\lab2.dll

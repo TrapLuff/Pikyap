@@ -1,0 +1,28 @@
+D:\фотографии для видео\ВУЗ\программирование\lab1\bin\Debug\net9.0\lab1.exe
+D:\фотографии для видео\ВУЗ\программирование\lab1\bin\Debug\net9.0\lab1.deps.json
+D:\фотографии для видео\ВУЗ\программирование\lab1\bin\Debug\net9.0\lab1.runtimeconfig.json
+D:\фотографии для видео\ВУЗ\программирование\lab1\bin\Debug\net9.0\lab1.dll
+D:\фотографии для видео\ВУЗ\программирование\lab1\bin\Debug\net9.0\lab1.pdb
+D:\фотографии для видео\ВУЗ\программирование\lab1\obj\Debug\net9.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\фотографии для видео\ВУЗ\программирование\lab1\obj\Debug\net9.0\lab1.AssemblyInfoInputs.cache
+D:\фотографии для видео\ВУЗ\программирование\lab1\obj\Debug\net9.0\lab1.AssemblyInfo.cs
+D:\фотографии для видео\ВУЗ\программирование\lab1\obj\Debug\net9.0\lab1.csproj.CoreCompileInputs.cache
+D:\фотографии для видео\ВУЗ\программирование\lab1\obj\Debug\net9.0\lab1.dll
+D:\фотографии для видео\ВУЗ\программирование\lab1\obj\Debug\net9.0\refint\lab1.dll
+D:\фотографии для видео\ВУЗ\программирование\lab1\obj\Debug\net9.0\lab1.pdb
+D:\фотографии для видео\ВУЗ\программирование\lab1\obj\Debug\net9.0\lab1.genruntimeconfig.cache
+D:\фотографии для видео\ВУЗ\программирование\lab1\obj\Debug\net9.0\ref\lab1.dll
+C:\Users\a017\Downloads\dlyagita\dlyagita\lab1\bin\Debug\net9.0\lab1.exe
+C:\Users\a017\Downloads\dlyagita\dlyagita\lab1\bin\Debug\net9.0\lab1.deps.json
+C:\Users\a017\Downloads\dlyagita\dlyagita\lab1\bin\Debug\net9.0\lab1.runtimeconfig.json
+C:\Users\a017\Downloads\dlyagita\dlyagita\lab1\bin\Debug\net9.0\lab1.dll
+C:\Users\a017\Downloads\dlyagita\dlyagita\lab1\bin\Debug\net9.0\lab1.pdb
+C:\Users\a017\Downloads\dlyagita\dlyagita\lab1\obj\Debug\net9.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a017\Downloads\dlyagita\dlyagita\lab1\obj\Debug\net9.0\lab1.AssemblyInfoInputs.cache
+C:\Users\a017\Downloads\dlyagita\dlyagita\lab1\obj\Debug\net9.0\lab1.AssemblyInfo.cs
+C:\Users\a017\Downloads\dlyagita\dlyagita\lab1\obj\Debug\net9.0\lab1.csproj.CoreCompileInputs.cache
+C:\Users\a017\Downloads\dlyagita\dlyagita\lab1\obj\Debug\net9.0\lab1.dll
+C:\Users\a017\Downloads\dlyagita\dlyagita\lab1\obj\Debug\net9.0\refint\lab1.dll
+C:\Users\a017\Downloads\dlyagita\dlyagita\lab1\obj\Debug\net9.0\lab1.pdb
+C:\Users\a017\Downloads\dlyagita\dlyagita\lab1\obj\Debug\net9.0\lab1.genruntimeconfig.cache
+C:\Users\a017\Downloads\dlyagita\dlyagita\lab1\obj\Debug\net9.0\ref\lab1.dll
